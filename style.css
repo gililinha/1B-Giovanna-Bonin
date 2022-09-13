@@ -1,3 +1,13 @@
+.minhalista {
+   color: blue;
+   fonnt-size: 30;
+}
+
+
+.lista {
+   color: red;
+   fort-size: 30;
+
 #imagem {
    text-aling: center;
 }
@@ -9,7 +19,7 @@
 p {
 color: red;
 font-size: 30;
-text-aling: right;
+text-aling: left;
 }
 
 h1{
@@ -20,6 +30,6 @@ font-size: 50;
 
 h2{
 color: green;
-texte-aling: left;
+texte-aling: right;
 font-size: 40;
 }
