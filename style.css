@@ -1,35 +1,84 @@
-.minhalista {
-   color: blue;
-   fonnt-size: 30;
+. minhalista {
+    cor : fumaça branca;
+    tamanho da fonte :  30 ;
 }
 
-
-.lista {
-   color: red;
-   fort-size: 30;
-
-#imagem {
-   text-aling: center;
+#menu { _
+    text-align : centro;
+    tamanho da fonte :  30 px ;
 }
 
-#link{
-   text-aling: center;
+# lateral {
+    flutuar : direito;
+}
+
+. listas {
+    fundo : preto;
+}
+
+. imagens {
+    text-align : centro;
+    fundo : fumaça branca;
+}
+
+#cabecalho { _
+    text-align : centro;
+    fundo : amarelo- esverdeado;
+    border-bottom-style : sólido;
+    margem esquerda :  -8 px ;
+    margem direita :  -8 px ;
+    margin-top :  -8 px ;
+    preenchimento :  1px ; _
+}
+
+. rodape {
+    text-align : centro;
+    fundo : amarelo- esverdeado;
+    estilo de borda superior : sólido;
+    margem esquerda :  -8 px ;
+    margem direita :  -8 px ;
+    margem inferior :  -30 px ;
+    preenchimento :  1px ; _
+}
+
+. lista {
+    cor : fumaça branca;
+    tamanho da fonte :  30 ;
+}
+
+#imagem { _
+    text-align : centro;
+    borda :  5px ; _
+    estilo de borda : sólido;
+    cor da borda : azul;
+    borda-topo-esquerda-raio :  25 px ;
+    border-top-right-radius :  25 px ;
+    border-bottom-left-radius :  25 px ;
+    border-bottom-right-radius :  25 px ;
+    padding-top :  20 px ;
+    padding-bottom :  20 px ;
+    margem esquerda :  570 px ;
+    margem direita :  570 px ;
+}
+
+# ligação {
+    text-align : centro;
 }
 
 p {
-color: red;
-font-size: 30;
-text-aling: left;
+    cor : vermelho;
+    tamanho da fonte :  30 ;
+
 }
 
-h1{
-color: blue;
-text-aling: center;
-font-size: 50;
+h1 {
+    cor : azul;
+    text-align : centro;
+    tamanho da fonte :  50 ;
 }
 
-h2{
-color: green;
-texte-aling: right;
-font-size: 40;
+h2 {
+    cor : verde;
+    text-align : esquerda;
+    tamanho da fonte :  40 ;
 }
